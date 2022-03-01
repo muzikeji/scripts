@@ -1,8 +1,8 @@
 # jd_scripts
 ​
-# 频道
-### [点击直达频道](https://t.me/s_guaguagua)
+# 木子频道
+### [点击直达频道](https://t.me/muzikejipd)
 ​
 # 预留
-### 说点啥呢
+### 啥都不说了，备份仓库而已，
 
